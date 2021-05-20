@@ -16,4 +16,9 @@ Caveats of measurement:
 2. Microfines. Because of the resolution and photo preparation, the size and shape of the microfines cannot be fully accounted for in the picture. This can be addressed (but not fully solved) via color manipulation, lens correction and using higher resolution, but I felt that would close the door to the number of samples I was able to receive so ultimately, I decided against implementing stricter data collection parameters.
 3. Espresso grind. A big caveat, this type of analysis is unable to use espresso grind (at least with these testing parameters). The issue with evaluating espresso grind has to do with again, the resolution and sample preparation of the photo. Because espresso grind is so small, it is much more prone to clumping due to static and is thus much harder to separate. We can measure the same grinder and coffee at various grind sizes, observe the behavior, and try to roughly exrapolate roughly what the distribution at espresso sizes looks like. However, without improved equipment and procedure, we will never be completely sure of a grinders behavior at espresso grind sizes, especially when many grinders are grinding to near turkish grind sizes for espresso.
 
+## Observations
 
+I compiled a few comparisons and observations in a Jupyter notebook and used Seaborn to visualize them. This is still rough around the edges and a work in progress, so feel free to discuss further with me! Click either link to render the notebook to a web browser.
+
+[GitHub View](https://github.com/fam-cf/Coffee-Grinders/blob/main/Notes%20and%20Observations.ipynb)
+[nbviewer](https://nbviewer.jupyter.org/github/fam-cf/Coffee-Grinders/blob/main/Notes%20and%20Observations.ipynb)
