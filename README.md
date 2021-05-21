@@ -24,7 +24,8 @@ I compiled a few comparisons and observations in a Jupyter notebook and used Sea
 [nbviewer](https://nbviewer.jupyter.org/github/fam-cf/Coffee-Grinders/blob/main/Notes%20and%20Observations.ipynb)    
 
 ## Weibull Fitting    
-This notebook is squarely a work in progress, and I would love suggestions for improvements and changes.    
+This notebook is squarely a work in progress, and I would love suggestions for improvements and changes.   
+
 [GitHub View](https://github.com/fam-cf/Coffee-Grinders/blob/main/The%20Weibull%20Distribution.ipynb)
 
 
