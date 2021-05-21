@@ -21,4 +21,10 @@ Caveats of measurement:
 I compiled a few comparisons and observations in a Jupyter notebook and used Seaborn to visualize them. This is still rough around the edges and a work in progress, so feel free to discuss further with me! Click either link to render the notebook to a web browser.
 
 [GitHub View](https://github.com/fam-cf/Coffee-Grinders/blob/main/Notes%20and%20Observations.ipynb)    
-[nbviewer](https://nbviewer.jupyter.org/github/fam-cf/Coffee-Grinders/blob/main/Notes%20and%20Observations.ipynb)
+[nbviewer](https://nbviewer.jupyter.org/github/fam-cf/Coffee-Grinders/blob/main/Notes%20and%20Observations.ipynb)    
+
+## Weibull Fitting    
+This notebook is squarely a work in progress, and I would love suggestions for improvements and changes.
+[GitHub View](https://github.com/fam-cf/Coffee-Grinders/blob/main/The%20Weibull%20Distribution.ipynb)
+
+
